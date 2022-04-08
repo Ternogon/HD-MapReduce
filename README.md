@@ -1,6 +1,16 @@
 # HD-MapReduce
 Hadoop MapReduce Algorithm for Python 3 
 
+![_-code-_-stolen](https://user-images.githubusercontent.com/31628014/162436790-b515045b-b32b-4f3a-8f5d-861f006b1b6f.svg)
+
+![image](https://user-images.githubusercontent.com/31628014/162435187-f5a9a88c-e607-4c1d-905b-08464a109aac.png)
+
+## OS Compatibility
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://ru.wikipedia.org/wiki/Linux)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://ru.wikipedia.org/wiki/MacOS)
+
+
 ## Exercise
 We have a need to solve the problem of forming a list of recommended products for an online store user using a cross-correlation algorithm (having many tuples of objects, for each possible pair of objects, count the number of tuples where they meet together).
 
