@@ -3,7 +3,7 @@ Hadoop MapReduce Algorithm for Python 3
 
 ![_-code-_-stolen](https://user-images.githubusercontent.com/31628014/162436790-b515045b-b32b-4f3a-8f5d-861f006b1b6f.svg)
 
-![image](https://user-images.githubusercontent.com/31628014/162435187-f5a9a88c-e607-4c1d-905b-08464a109aac.png)
+[![made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## OS Compatibility
 
