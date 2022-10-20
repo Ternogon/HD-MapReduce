@@ -246,9 +246,9 @@ yarn jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
 ```
 import pyhdfs
 
-fs = pyhdfs.HdfsClient("localhost:9870", user_name="yan")
+fs = pyhdfs.HdfsClient("localhost:9870", user_name="trn")
 print("Connected")
-fs.copy_to_local("/user/yan/orders/output/part-00000", "info")
+fs.copy_to_local("/user/trn/orders/output/part-00000", "info")
 inf = {}
 with open("info", "r") as f:
     for line in f.read().split("\n"):
@@ -272,9 +272,9 @@ if choice in inf:
 ```
 import pyhdfs
 
-fs = pyhdfs.HdfsClient("localhost:50070", user_name="yan")
+fs = pyhdfs.HdfsClient("localhost:50070", user_name="trn")
 print("Connected")
-fs.copy_to_local("/user/yan/orders/output/part-00000", "info")
+fs.copy_to_local("/user/trn/orders/output/part-00000", "info")
 inf = {}
 with open("info", "r") as f:
     inf = {}
